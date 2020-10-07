@@ -5,7 +5,7 @@
          "context": [""]
         },
         {"tag": "greeting",
-         "patterns": ["How are you",],
+         "patterns": ["How are you"],
          "responses": ["Hello, I am good. Thanks for asking! How are you"],
          "context": [""]
         },
